@@ -1,3 +1,5 @@
+[![sayHello](https://github.com/Enzell62/hexlet-ci-app/actions/workflows/tests-lints.yml/badge.svg)](https://github.com/Enzell62/hexlet-ci-app/actions/workflows/tests-lints.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
